@@ -1,0 +1,6 @@
+{
+	"prefix": "/**",
+	"suffix": " */",
+	"line_prefix": "    ",
+	"template": "Copyright {{ $.year }} {{ $.name }}"
+}

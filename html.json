@@ -1,0 +1,5 @@
+{
+	"line_prefix": "<!-- ",
+	"line_suffix": " -->",
+	"template": "Copyright {{ $.year }} {{ $.name }}"
+}
